@@ -1,2 +1,3 @@
 # SimpleJava
-Simple Java Projects
+A simple Java fizzbuzz maven project with tests.
+
